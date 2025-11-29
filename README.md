@@ -1,10 +1,11 @@
-# 👋 Hi, I'm a Full Stack Developer
+# 👋 Hi, I'm Jassim Mohammed
 
-![Anime Header](https://media.giphy.com/media/26gsgB0l1z1fB5uH2/giphy.gif)  
+![Anime Header](./assets/anime-header.gif)  
 
 💻 مطور ويب متخصص في **Laravel & React**  
 🚀 أحب بناء تطبيقات سريعة، آمنة، وقابلة للتوسع  
 🎯 هدفي تطوير مهاراتي والعمل على مشاريع عالمية  
+🌍 From Baghdad, Iraq
 
 ---
 
@@ -23,23 +24,23 @@
 
 ## 🧠 Skills
 
-- ⚡ بناء RESTful APIs باستخدام Laravel
-- ⚡ إدارة الحالة باستخدام Redux Toolkit
-- ⚡ تصميم واجهات احترافية باستخدام MUI
-- ⚡ التعامل مع Authentication & Authorization
-- ⚡ استخدام React Query في جلب البيانات
-- ⚡ رفع الصور ومعالجة FormData
+- ⚡ بناء RESTful APIs باستخدام Laravel  
+- ⚡ إدارة الحالة باستخدام Redux Toolkit  
+- ⚡ تصميم واجهات احترافية باستخدام MUI  
+- ⚡ التعامل مع Authentication & Authorization  
+- ⚡ استخدام React Query في جلب البيانات  
+- ⚡ رفع الصور ومعالجة FormData  
 
 ---
 
 ## 🌸 Animations & Fun
 
-![Anime Wave](https://media.giphy.com/media/l0HlQ7LRal6y91lDq/giphy.gif)
-![Coding Anime](https://media.giphy.com/media/3orieVYYpql1TR8xyo/giphy.gif)
+![Anime Wave](./assets/anime-wave.gif)  
+![Coding Anime](./assets/coding-anime.gif)
 
 ---
 
 ## 📫 Contact Me
 
-- GitHub: [jasbx222](https://github.com/jasbx222)
-- LinkedIn: [Jassim Mohammed](https://www.linkedin.com/in/jassim-mohammed-253a98295/)
+- GitHub: [jasbx222](https://github.com/jasbx222)  
+- LinkedIn: [Jassim Mohammed](https://www.linkedin.com/in/jassim-mohammed-253a98295/)  
