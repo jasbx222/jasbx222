@@ -13,7 +13,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query)
 ![REST API](https://img.shields.io/badge/REST-API-0A7EA4?style=for-the-badge)
 
 ---
