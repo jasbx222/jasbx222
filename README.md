@@ -1,4 +1,4 @@
-#![Hi, I'm Jassim Mohammed](https://img.shields.io/badge/Hi,_I'm_Jassim_Mohammed-FF6EC7?style=for-the-badge&logoColor=white&labelColor=6a5acd)
+![Hi, I'm Jassim Mohammed](https://img.shields.io/badge/Hi,_I'm_Jassim_Mohammed-FF6EC7?style=for-the-badge&logoColor=white&labelColor=6a5acd)
   
 🎯 هدفي تطوير مهاراتي والعمل على مشاريع عالمية  
 🌍 From Baghdad, Iraq
