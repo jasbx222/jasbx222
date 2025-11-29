@@ -28,8 +28,3 @@
 - رفع الصور ومعالجة FormData
 
 ---
-
-## 📫 Contact Me
-
-- GitHub: https://github.com/USERNAME
-- Email: your@email.com
