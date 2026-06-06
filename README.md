@@ -35,7 +35,7 @@
 - ⚡ SQL Server & MySQL Database Design
 - ⚡ State Management using Redux Toolkit
 - ⚡ Data Fetching with React Query
-- ⚡ Clean Architecture & SOLID Principles
+
 
 ---
 
