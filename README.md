@@ -1,61 +1,54 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jassim%20Mohammed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20%26%20Laravel&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa"/>
-
-<!-- Animated Typing Effect -->
+<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=💻+Backend+Developer;🚀+ASP.NET+Core+%26+Laravel;🔐+JWT+%26+Security+Expert;⚡+RESTful+API+Architect;🎯+Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=💻+Jassim+Mohammed;Backend+Developer;ASP.NET+Core+%26+Laravel+Engineer;🔐+Security+%26+APIs+Specialist;🚀+Building+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
+<br/>
 
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=jasbx222&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/jassim-mohamed-253a98295">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
-</p>
+<!-- Status Badges -->
+<img src="https://komarev.com/ghpvc/?username=jasbx222&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jassim-mohamed-253a98295">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   🚀  Fast  •  🔐  Secure  •  📈  Scalable              ║
+║   Building APIs that power real-world applications       ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- About Section -->
-<div align="center">
-
-## 🌌 About Me
-
-</div>
+## 🧬 About Me
 
 ```typescript
-const jassim = {
-  role      : "Backend Developer",
-  passion   : ["Clean Architecture", "Scalable APIs", "Security"],
-  goal      : "Building fast, secure & scalable global applications 🌍",
-  learning  : ["Microservices", "Docker", "CI/CD"],
-  funFact   : "I debug in production... just kidding 😄"
+const jassim: Developer = {
+  name     : "Jassim Mohammed",
+  role     : "Backend Developer",
+  focus    : ["ASP.NET Core", "Laravel", "RESTful APIs"],
+  goal     : "أطور مهاراتي وأعمل على مشاريع عالمية 🌍",
+  passion  : "Building fast, secure & scalable applications",
+  funFact  : "I write clean code... and then refactor it anyway 😄",
 };
 ```
 
-<div align="center">
-<br/>
-
-🧠 **أحب بناء تطبيقات سريعة، آمنة، وقابلة للتوسع**  
-🎯 **هدفي تطوير مهاراتي والعمل على مشاريع عالمية**
-
-</div>
-
 ---
 
-<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚡ Backend
+### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -90,7 +83,7 @@ const jassim = {
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
 </p>
 
-### 🧰 Tools & DevOps
+### 🧰 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -104,94 +97,40 @@ const jassim = {
 
 ---
 
-<!-- Skills Section -->
 ## 🧠 Core Skills
 
-<table align="center">
-  <tr>
-    <td>⚡</td>
-    <td><strong>RESTful APIs</strong></td>
-    <td>Building with ASP.NET Core & Laravel</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Entity Framework Core</strong></td>
-    <td>Code First & Database First approaches</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Redis Caching</strong></td>
-    <td>Caching strategies & Cache Invalidation</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>API Documentation</strong></td>
-    <td>Swagger / OpenAPI Documentation</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Architecture Patterns</strong></td>
-    <td>Dependency Injection & Repository Pattern</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Authentication</strong></td>
-    <td>JWT-based Auth & Authorization</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Database Design</strong></td>
-    <td>SQL Server & MySQL</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>State Management</strong></td>
-    <td>Redux Toolkit</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Data Fetching</strong></td>
-    <td>React Query</td>
-  </tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        SKILL SET v2025                          │
+├──────────────────────────┬──────────────────────────────────────┤
+│  ⚡ RESTful APIs          │  ASP.NET Core & Laravel              │
+│  ⚡ Entity Framework Core │  Code First & Database First         │
+│  ⚡ Redis Caching         │  Caching Strategies & Invalidation   │
+│  ⚡ API Documentation     │  Swagger / OpenAPI                   │
+│  ⚡ Architecture Patterns │  DI & Repository Pattern             │
+│  ⚡ Authentication        │  JWT Auth & Authorization            │
+│  ⚡ Database Design       │  SQL Server & MySQL                  │
+│  ⚡ State Management      │  Redux Toolkit                       │
+│  ⚡ Data Fetching         │  React Query                         │
+└──────────────────────────┴──────────────────────────────────────┘
+```
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasbx222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=7c3aed" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasbx222&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+![Jassim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasbx222&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbx222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff)
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasbx222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" alt="Top Languages"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=jasbx222&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasbx222&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jasbx222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!-- Contact Section -->
 ## 📫 Contact Me
 
 <div align="center">
@@ -199,18 +138,22 @@ const jassim = {
 <a href="https://github.com/jasbx222">
   <img src="https://img.shields.io/badge/GitHub-jasbx222-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jassim-mohamed-253a98295">
   <img src="https://img.shields.io/badge/LinkedIn-Jassim%20Mohammed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+```
+"First, solve the problem. Then, write the code." — John Johnson
+```
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<div align="center">
+  <sub>Made with ❤️ by Jassim Mohammed · 2025</sub>
+</div>
