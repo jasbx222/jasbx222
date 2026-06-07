@@ -30,7 +30,7 @@
 
 ```typescript
 const jassim = {
-  role      : "Backend Developer",
+  role      : "FullStack Developer",
   passion   : ["Clean Architecture", "Scalable APIs", "Security"],
   goal      : "Building fast, secure & scalable global applications 🌍",
   learning  : ["Microservices", "Docker", "CI/CD"],
